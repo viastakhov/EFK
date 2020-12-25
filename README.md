@@ -1,9 +1,10 @@
 # Starting a multi-node cluster, Kibana and Fluentd with TLS enabled using Docker Compose
 
-https://docs.fluentd.org/container-deployment/docker-compose
-https://docs.fluentd.org/output/elasticsearch
-https://github.com/uken/fluent-plugin-elasticsearch
-https://www.elastic.co/guide/en/elastic-stack-get-started/7.8/get-started-docker.html#get-started-docker-tls
+References:
+* https://docs.fluentd.org/container-deployment/docker-compose
+* https://docs.fluentd.org/output/elasticsearch
+* https://github.com/uken/fluent-plugin-elasticsearch
+* https://www.elastic.co/guide/en/elastic-stack-get-started/7.8/get-started-docker.html#get-started-docker-tls
 
 *Make sure Docker Engine is allotted at least 4GiB of memory*
 
